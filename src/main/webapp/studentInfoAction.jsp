@@ -19,9 +19,9 @@
 	
 	<br>
 	※ EL 표기법 사용<br>
-	학생이름 : ${student.name}<bt>
-	학생나이 : ${student.age}<bt>
-	학생학년 : ${student.grade}<bt>
+	학생이름 : ${student.name}<br>
+	학생나이 : ${student.age}<br>
+	학생학년 : ${student.grade}<br>
 	
 </body>
 </html>
